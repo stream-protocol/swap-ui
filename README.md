@@ -1,7 +1,7 @@
 <h1 align="center">Stream Swap UI</h1>
 <br />
 <p align="center">
-<img width="250" src="https://ftx.com/static/media/stream.ce20eedf.svg"/>
+<img width="250" src="https://imgur.com/vGRVFMJ"/>
 </p>
 <p align="center">
 <a href="https://twitter.com/stream_protocol">
