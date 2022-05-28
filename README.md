@@ -1,7 +1,7 @@
 <h1 align="center">Stream Swap UI</h1>
 <br />
 <p align="center">
-<img width="250" src="https://imgur.com/vGRVFMJ"/>
+<img width="250" src="[https://imgur.com/vGRVFMJ](https://i.imgur.com/vGRVFMJ.png)">
 </p>
 <p align="center">
 <a href="https://twitter.com/stream_protocol">
