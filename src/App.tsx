@@ -25,7 +25,7 @@ import { Buffer } from "buffer";
 import JupiterForm from "./components/Jupiter";
 import { useLocalStorageState } from "ahooks";
 import { tokenAuthFetchMiddleware } from "@strata-foundation/web3-token-auth";
-import { getToken } from "@bonfida/ui";
+import { getToken } from "@stream-swap/ui";
 import { Warning } from "./components/Warning";
 
 import "react-toastify/dist/ReactToastify.css";

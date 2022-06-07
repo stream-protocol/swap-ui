@@ -253,7 +253,7 @@
     eip1193-provider "^1.0.1"
     js-sha3 "^0.8.0"
 
-"@bonfida/ui@file:../bonfida-ui":
+"@stream-swap/ui@file:../bonfida-ui":
   version "0.0.0"
   dependencies:
     bs58 "^5.0.0"

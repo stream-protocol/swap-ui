@@ -1,8 +1,8 @@
 import { TokenInfo } from "@solana/spl-token-registry";
-import { TokenAccounts } from "@bonfida/ui";
+import { TokenAccounts } from "@stream-swap/ui";
 import round from "lodash/round";
 import { PublicKey } from "@solana/web3.js";
-import { useSolBalance } from "@bonfida/ui";
+import { useSolBalance } from "@stream-swap/ui";
 import { useWallet, useConnection } from "@solana/wallet-adapter-react";
 import { NATIVE_MINT } from "@solana/spl-token";
 

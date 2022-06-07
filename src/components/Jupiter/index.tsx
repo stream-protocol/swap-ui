@@ -30,17 +30,17 @@ import { getFeeAddress } from "../../utils/fees";
 import { RenderUpdate } from "../../utils/notifications";
 import { nanoid } from "nanoid";
 import { Balance } from "./Balance";
-import { retry, sendRawTransaction, FIDA_MINT } from "@bonfida/ui";
+import { retry, sendRawTransaction, STR_MINT } from "@stream-swap/ui";
 import { GENESYS_GO_CONNECTIONS } from "../../utils/connection";
-import { useTokenAccounts } from "@bonfida/ui";
+import { useTokenAccounts } from "@stream-swap/ui";
 import round from "lodash/round";
 import { NATIVE_MINT } from "@solana/spl-token";
-import { useSolBalance } from "@bonfida/ui";
+import { useSolBalance } from "@stream-swap/ui";
 
 // Token Mints
 export const INPUT_MINT_ADDRESS =
   "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"; // USDC
-export const OUTPUT_MINT_ADDRESS = FIDA_MINT; // FIDA
+export const OUTPUT_MINT_ADDRESS = STR_MINT; // STR
 
 import { useJupiterApiContext } from "../../contexts";
 
