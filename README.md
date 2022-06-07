@@ -44,3 +44,9 @@ VITE_FEES_BPS= The fees you want to charge on transaction
 VITE_GEN_GO_TOKEN= The URL to fetch the auth token (might not be applicable)
 GENERATE_SOURCEMAP=false
 ```
+
+### ToDo 
+
+- Stream Token "STR" Implementation
+- Stream wallet address used to collect fees
+- Solve/fix: src/components/Jupiter/Balance.tsx
