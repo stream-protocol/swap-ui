@@ -49,4 +49,4 @@ GENERATE_SOURCEMAP=false
 
 - Stream Token "STR" Implementation
 - Stream wallet address used to collect fees
-- Solve/fix: src/components/Jupiter/Balance.tsx
+- Solve/fix build. Error! src/components/Jupiter/... (missing market ID.)
