@@ -1,4 +1,4 @@
-import stream from "../../assets/stream.svg";
+import fida from "../../assets/fida.svg";
 import Urls from "../../settings/urls";
 import { Link } from "../Link";
 
@@ -14,9 +14,9 @@ const Footer = () => {
   return (
     <footer className="p-10 footer footer-center bg-gradient-to-r from-green-400 to-blue-500 text-primary-content">
       <div>
-        <img src={stream} className="w-10" />
+        <img src={fida} className="w-10" />
         <p className="font-bold">
-          Stream Protocol LLC<br />
+          Bonfida Foundation <br />
         </p>
       </div>
       <div>
